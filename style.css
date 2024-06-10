@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+body{
+    background-color: cyan;
+
+    margin-left: 4vh;
+}
+
+
+#search-button{
+   padding: 10px;
+   color: beige;
+   background-color: black;
+   
+
+ 
+}
+
+
+#results-list{
+    font-size: 20px;
+    color: crimson;
+    background-color: rgb(red, green, blue)
+}
+
+#job-location{
+    margin-bottom: 25px;
+    
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+h2{
+    color: green;
+}
+
+
